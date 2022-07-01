@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:forceclosewindow.helloWorld"
+        "onCommand:forceclosewindow.forceCloseActiveEditor"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "forceclosewindow.helloWorld",
-				"title": "Hello World"
+				"command": "forceclosewindow.forceCloseActiveEditor",
+				"title": "Force Close Active Editor"
 			}
 		]
 	},
