@@ -1,7 +1,8 @@
 {
   "name": "forceclosewindow",
+  "publisher": "osdakira",
 	"displayName": "ForceCloseWindow",
-	"description": "",
+	"description": "Force close Untitled file without prompt",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.68.0"
