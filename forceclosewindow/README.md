@@ -2,7 +2,9 @@
 
 ## Features
 
-This extension closes newly created files without prompting.
+Avoid prompts when closing a new unsaved file (= Untitled File).
+
+If the editor is empty, the prompt will not appear, so for UntitledFile, clear the editor before closing.
 
 ## Extension Settings
 
